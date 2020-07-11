@@ -1,4 +1,11 @@
 ### Hi there 👋
+フロントエンドエンド周りを中心にWebアプリの開発だったり、ちょっとずつPdMもやっています。  
+WordPressテーマ作成, JAMStackでの構築は得意です。  
+最近はAWS周りを勉強中。
+
+#### Hit me up.
+- Twitter： https://twitter.com/shota_coffee
+- Website： http://shota.coffee/
 
 <!--
 **shotaCoffee/shotaCoffee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
