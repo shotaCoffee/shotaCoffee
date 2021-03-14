@@ -1,7 +1,7 @@
 # Hi there 👋
-フロントエンドエンド周りを中心にWebアプリの開発だったり、ちょっとずつPdMもやっています。  
-WordPressテーマ作成, JAMStackでの構築は得意です。  
-最近はサーバーレスアプリケーション（GraphQL, AWS）を勉強中。
+フロントエンドエンジニアです🙌
+React をメインに書きますが、Angular もすき。
+Jamstack や webpack のチューニングなどもよくやります。
 
 ## Hit me up.
 - Twitter： https://twitter.com/shota_coffee
