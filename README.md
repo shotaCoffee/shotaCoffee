@@ -1,6 +1,10 @@
 # Hi there 👋
-フロントエンドエンジニアです🙌
-React をメインに書きますが、Angular もすき。
+[![Website](https://img.shields.io/website?label=shota.coffee&style=for-the-badge&url=https%3A%2F%2Fshota.coffee)](https://shota.coffee/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/shota_coffee?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fshota_coffee&screen_name=shota_coffee)
+
+
+フロントエンドエンジニアです🙌  
+React をメインに書きますが、Angular もすき。  
 Jamstack や webpack のチューニングなどもよくやります。
 
 ## Connect with me:
