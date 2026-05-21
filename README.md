@@ -3,8 +3,8 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/shota_coffee?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fshota_coffee&screen_name=shota_coffee)
 [![Zenn](https://img.shields.io/badge/Zenn-shota_coffee-lightgrey?style=flat-square&logo=zenn)](https://zenn.dev/shota_coffee)
 
-
-https://engineering.visional.inc/blog/428/campus-frontend-improvement/
+主要な記事
+- [フロントエンドを改善し続けてきた道を振り返る 〜 ビズリーチ・キャンパス](https://engineering.visional.inc/blog/428/campus-frontend-improvement/)
 
 ## Connect with me:
 
